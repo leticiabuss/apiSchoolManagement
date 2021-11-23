@@ -1,0 +1,2 @@
+# apiSchoolManagement
+API School Management
